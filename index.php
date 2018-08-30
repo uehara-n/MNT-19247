@@ -15,6 +15,8 @@
 		</li>
 		<li class="slide"><a href="/seko/28592.html"><img src="<?php echo get_template_directory_uri(); ?>/page_image/mainv/slide_award_02.jpg" width="980" height="450" alt="尾道市で店舗　デザイン改修工事"></a>
 		</li>
+		<li class="slide"><a href="https://www.happyhome-base.jp/zr"><img src="<?php echo get_template_directory_uri(); ?>/page_image/mainv/slide_v3.jpg" width="980" height="450" alt="ZR実家リノベ"></a>
+		</li>
 	</ul>
 </div>
 
@@ -276,6 +278,8 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
 			</li>
 			<li><a href="<?php bloginfo('url'); ?>/menu/kitchen"><img src="<?php echo get_template_directory_uri(); ?>/page_image/top/reform/kitchinBanner.png" alt="キッチンコーナー" class="sp-img img_over"></a>
 			</li>
+			<li><a href="https://www.happyhome-base.jp/zr"><img src="<?php echo get_template_directory_uri(); ?>/page_image/top/reform/zrBanner.jpg" alt="ZR実家リノベ" class="sp-img img_over"></a>
+			</li>
 		</ul>
 		</div>
 </section>
@@ -297,7 +301,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
 	<h2 class="t_tit center"><img src="<?php echo get_template_directory_uri(); ?>/page_image/top/genba/todayPlcTitle.png" alt="ハッピーホームの今日の現場" width="454" height="50"></h2>
 	<div>
 		<div class="inner inner_wrap">
-            
+
 			<!-- 福山北部 -->
 			<article class="box">
 				<h3 class="box_tit">福山北部エリア</h3>
@@ -345,7 +349,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
                 </a>
 			</article>
 			<!-- /福山北部 -->
-            
+
 			<!-- 福山中心部エリア -->
 				<?php
 				$args = array(
@@ -386,7 +390,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
 					else :
 					endif;
 					wp_reset_query(); ?>
-                
+
                 <a href="https://www.happy-reform.com/genba_hukuyamachu">
                     <div class="detail_more">
                         <img src="https://www.happy-reform.com/wp/wp-content/themes/reform/page_image/top/genba/detail_more.png" alt="一覧はこちら" width="173" height="34" class="img_over">
@@ -394,7 +398,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
                 </a>
 			</article>
 			<!-- /福山中心部エリア -->
-            
+
 			<!-- 福山東部  -->
 			<article class="box">
 				<h3 class="box_tit">福山東部エリア</h3>
@@ -435,7 +439,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
 					else :
 					endif;
 					wp_reset_query(); ?>
-                
+
                 <a href="https://www.happy-reform.com/genba_hukuyamatoubu">
                     <div class="detail_more">
                         <img src="https://www.happy-reform.com/wp/wp-content/themes/reform/page_image/top/genba/detail_more.png" alt="一覧はこちら" width="173" height="34" class="img_over">
@@ -443,7 +447,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
                 </a>
 			</article>
 			<!-- /福山東部  -->
-            
+
 			<!-- 福山西部エリア -->
 				<?php
 				$args = array(
@@ -484,7 +488,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
 					else :
 					endif;
 					wp_reset_query(); ?>
-                
+
                 <a href="https://www.happy-reform.com/genba_hukuyamaseibu">
                     <div class="detail_more">
                         <img src="https://www.happy-reform.com/wp/wp-content/themes/reform/page_image/top/genba/detail_more.png" alt="一覧はこちら" width="173" height="34" class="img_over">
@@ -492,7 +496,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
                 </a>
     		</article>
 			<!-- /福山西部エリア -->
-            
+
 			<!-- 福山南部エリア  -->
 			<article class="box">
 				<h3 class="box_tit">福山南部エリア</h3>
@@ -533,7 +537,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
 					else :
 					endif;
 					wp_reset_query(); ?>
-                
+
                 <a href="https://www.happy-reform.com/genba_hukuyamananbu">
                     <div class="detail_more">
                         <img src="https://www.happy-reform.com/wp/wp-content/themes/reform/page_image/top/genba/detail_more.png" alt="一覧はこちら" width="173" height="34" class="img_over">
@@ -582,15 +586,15 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
 					else :
 					endif;
 					wp_reset_query(); ?>
-                
+
                 <a href="https://www.happy-reform.com/genba_huchu">
                     <div class="detail_more">
                         <img src="https://www.happy-reform.com/wp/wp-content/themes/reform/page_image/top/genba/detail_more.png" alt="一覧はこちら" width="173" height="34" class="img_over">
                     </div>
-                </a>   
+                </a>
 			</article>
 			<!-- /府中エリア -->
-            
+
 			<!-- 尾道エリア -->
 			<article class="box">
 				<h3 class="box_tit">尾道エリア</h3>
@@ -631,7 +635,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
 					else :
 					endif;
 					wp_reset_query(); ?>
-                
+
                 <a href="https://www.happy-reform.com/genba_onomichi">
                     <div class="detail_more">
                         <img src="https://www.happy-reform.com/wp/wp-content/themes/reform/page_image/top/genba/detail_more.png" alt="一覧はこちら" width="173" height="34" class="img_over">
@@ -679,7 +683,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
 					else :
 					endif;
 					wp_reset_query(); ?>
-                
+
                 <a href="https://www.happy-reform.com/genba_other">
                     <div class="detail_more">
                         <img src="https://www.happy-reform.com/wp/wp-content/themes/reform/page_image/top/genba/detail_more.png" alt="一覧はこちら" width="173" height="34" class="img_over">
@@ -687,7 +691,7 @@ else if(post_custom('renovation_after_image')){echo gr_get_image( 'renovation_af
                 </a>
 			</article>
 			<!-- /その他 -->
-            
+
 			<!-- 0
 			<article class="box">
 				<h3 class="box_tit">0</h3>

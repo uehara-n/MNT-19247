@@ -166,6 +166,7 @@ $(function(){
 			<li><a href="<?php bloginfo('url'); ?>/renov">中古住宅×リノベーション</a></li>
 			<li><a href="<?php bloginfo('url'); ?>/homeinspection">インスペクション</a></li>
 			<li><a href="<?php bloginfo('url'); ?>/renov_compare">建替え VS リノベ</a></li>
+      <li><a href="https://www.happyhome-base.jp/zr">ZR実家リノベ</a></li>
 		</ul>
 		</li>
 		<li class="pa-li"><a href="<?php bloginfo('url'); ?>/voice"><img src="<?php echo get_template_directory_uri(); ?>/images/gnav/gnav_voice.png" alt="お客様の声" width="147" height="70" class="pc_only"></a></li>
@@ -221,6 +222,7 @@ $(function(){
       <li><a href="<?php bloginfo('url'); ?>/renov">中古住宅×リノベーション</a></li>
 			<li><a href="<?php bloginfo('url'); ?>/homeinspection">インスペクション</a></li>
 			<li><a href="<?php bloginfo('url'); ?>/renov_compare">建替え VS リノベ</a></li>
+      <li><a href="https://www.happyhome-base.jp/zr">ZR実家リノベ</a></li>
 		</ul>
 
 		</li>
